@@ -128,83 +128,89 @@
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="620"/>
         <source>Advanced Sandbox options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi Sandbox Lanjutan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="621"/>
         <source>On this page advanced sandbox options can be configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi sandbox lanjutan dapat dikonfigurasi di halaman ini.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="626"/>
         <source>Network Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Akses jaringan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="634"/>
         <source>Allow network/internet access</source>
-        <translation type="unfinished"></translation>
+        <translation>Perbolehkan akses jaringan/internet</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="635"/>
         <source>Block network/internet by denying access to Network devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Blok jaringan/internet dengan menolak akses ke Perangkat jaringan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="637"/>
         <source>Block network/internet using Windows Filtering Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Blok jaringan/internet dengan Windows Filtering Platform</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="642"/>
         <source>Allow access to network files and folders</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>is &quot;di-jaringan&quot; correct?</translatorcomment>
+        <translation>Perbolehkan akses ke folder dan file di jaringan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="643"/>
         <location filename="Wizards/NewBoxWizard.cpp" line="659"/>
         <source>This option is not recommended for Hardened boxes</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;keras&quot; or &quot;ketat&quot;?</translatorcomment>
+        <translation type="unfinished">Opsi ini tidak direkomendasi untuk box yang diperketat</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="649"/>
         <source>Admin Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi Admin</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="653"/>
         <source>Make applications think they are running elevated</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;Hak istimewa&quot;, &quot;Admin&quot;, or &quot;Tinggi&quot;?</translatorcomment>
+        <translation type="unfinished">Buat aplikasi mengira mereka berjalan dengan admin</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="658"/>
         <source>Allow MSIServer to run with a sandboxed system token</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>not sure</translatorcomment>
+        <translation>Perbolehkan MSIServer untuk berjalan dengan token sistem tersandbox</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="664"/>
         <source>Box Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi kotak</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="668"/>
         <source>Use a Sandboxie login instead of an anonymous token</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;daripada&quot; or &quot;sebagai ganti&quot;?</translatorcomment>
+        <translation type="unfinished">Gunakan Sandboxie-login daripada token anonim</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="669"/>
         <source>Using a custom Sandboxie Token allows to isolate individual sandboxes from each other better, and it shows in the user column of task managers the name of the box a process belongs to. Some 3rd party security solutions may however have problems with custom tokens.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>the entire second part help me??</translatorcomment>
+        <translation type="unfinished">Menggunakan Token Khusus Sandboxie memperbolekan untuk mengisolasi masing-masing sandbox dengan lebih baik, dan ini menunjukan nama kotak proses di kolom user task manager. Beberapa solusi keamanan pihak ketiga mungkin memiliki masalah dengan token Khusus.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="674"/>
         <source>Prevent sandboxes programs installed on host from loading dll&apos;s from the sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Cegah program sandbox yang terinstal di host dari memuat dll dari dalam sandbox</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="675"/>
         <source>This feature may reduce compatibility as it also prevents box located processes from writing to host located ones and even starting them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitur ini mungkin mengurangi kompatibilitas karena juga mencegah proses dalam box dari menulis ke proses di host dan bahkan memulai mereka.</translation>
     </message>
 </context>
 <context>
@@ -227,7 +233,7 @@
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="318"/>
         <source>Another issue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Isu lain</translation>
     </message>
 </context>
 <context>
@@ -730,7 +736,7 @@ Error: %1</source>
     <message>
         <location filename="BoxJob.h" line="36"/>
         <source>Deleting Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Menghapus Konten</translation>
     </message>
 </context>
 <context>
@@ -791,7 +797,7 @@ You can click Finish to close this wizard.</source>
     <message>
         <location filename="Views/FileView.cpp" line="400"/>
         <source>%1 - Files</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Berkas</translation>
     </message>
 </context>
 <context>
@@ -799,37 +805,37 @@ You can click Finish to close this wizard.</source>
     <message>
         <location filename="Views/FileView.cpp" line="189"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat pintasan</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="212"/>
         <source>Pin to Box Run Menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pin ke Menu Jalankan Jotak</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="219"/>
         <source>Recover to Any Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pulihkan ke Folder apa saja</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="221"/>
         <source>Recover to Same Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulihkan ke folder yang sama</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="225"/>
         <source>Run Recovery Checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Jalankan Cek Pemulihan</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="289"/>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih direktori</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="355"/>
         <source>Create Shortcut to sandbox %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat pintasan ke sanbox %1</translation>
     </message>
 </context>
 <context>
@@ -973,7 +979,7 @@ You can use %USER% to save each users sandbox to an own folder.</source>
     <message>
         <location filename="OnlineUpdater.cpp" line="197"/>
         <source>Failed to download file from: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengunduk file dari: %1</translation>
     </message>
 </context>
 <context>
@@ -981,17 +987,17 @@ You can use %USER% to save each users sandbox to an own folder.</source>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="331"/>
         <source>Select issue from group</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih isu dari grup</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="340"/>
         <source>Please specify the exact issue:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mohon sebutkan masalah dengan tepat:</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="393"/>
         <source>Another issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Isu lain</translation>
     </message>
 </context>
 <context>
@@ -5401,47 +5407,47 @@ This file is part of Sandboxie and all change done to it will be reverted next t
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="23"/>
         <source>%1 - Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="37"/>
         <source>Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshot</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="55"/>
         <source>Revert to empty box</source>
-        <translation type="unfinished"></translation>
+        <translation>Kembalikan ke kotak kosong</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="102"/>
         <source> (default)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="172"/>
         <source>Please enter a name for the new Snapshot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mohon masukan nama untuk snapshot baru.</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="172"/>
         <source>New Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshot Baru</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="195"/>
         <source>Do you really want to switch the active snapshot? Doing so will delete the current state!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Apakah anda yakin ingin menganti snapshot aktif? Ini akan menghapus status sekarang ini!</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="229"/>
         <source>Do you really want to delete the selected snapshot?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Apakah anda yakin ingin untuk menghapus snapshot yang dipilih?</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="244"/>
         <source>Performing Snapshot operation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Melakukan operasi Snapshot...</translation>
     </message>
 </context>
 <context>
@@ -6000,7 +6006,7 @@ If you are a Great Supporter on Patreon already, Sandboxie can check online for 
     <message>
         <location filename="Views/TraceView.cpp" line="801"/>
         <source>Sandboxie-Plus - Trace Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sandboxie-Plus - Monitor Jejak</translation>
     </message>
 </context>
 <context>
@@ -6008,37 +6014,37 @@ If you are a Great Supporter on Patreon already, Sandboxie can check online for 
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="382"/>
         <source>Configure &lt;b&gt;Sandboxie-Plus&lt;/b&gt; UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasi UI &lt;b&gt; Sandboxie-Plus &lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="383"/>
         <source>Select the user interface style you prefer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih gaya antarmuka pengguna yang anda sukai.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="387"/>
         <source>&amp;Advanced UI for experts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;UI tingkat lanjut untuk ahli</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="392"/>
         <source>&amp;Simple UI for beginners</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;UI simpel untuk pemula</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="397"/>
         <source>&amp;Vintage SbieCtrl.exe UI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;UI SbieCtrl.exe antik</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="422"/>
         <source>Use Bright Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan mode terang</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="426"/>
         <source>Use Dark Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan mode gelap</translation>
     </message>
 </context>
 <context>
@@ -6046,37 +6052,37 @@ If you are a Great Supporter on Patreon already, Sandboxie can check online for 
     <message>
         <location filename="Forms/CompressDialog.ui" line="14"/>
         <source>Compress Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompres Berkas-berkas</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="38"/>
         <source>Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompresi</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="45"/>
         <source>When selected you will be prompted for a password after clicking OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat dipilih, anda akan dimintai password setelah mengklik OK</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="48"/>
         <source>Encrypt archive content</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkripsikan isi arsip</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="55"/>
         <source>Solid archiving improves compression ratios by treating multiple files as a single continuous data block. Ideal for a large number of small files, it makes the archive more compact but may increase the time required for extracting individual files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengarsipan padat meningkatkan rasio kompresi dengan memperlakukan banyak file sebagai satu blok data berkelanjutan. Ideal untuk file kecil yang banyak, dia membuat arsip lebih padat tetapi mungkin meningkatkan waktu yang diperlukan untuk mengekstrak file individu.</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="58"/>
         <source>Create Solide Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat arsip padat</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="65"/>
         <source>Export Sandbox to a 7z archive, Choose Your Compression Rate and Customize Additional Compression Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekspor Sandbox ke Arsip 7z, Pilih Tingkat Kompresi dan Sesuaikan Peraturan Tambahan Anda.</translation>
     </message>
 </context>
 <context>
@@ -7628,7 +7634,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/PopUpWindow.ui" line="32"/>
         <source>SandboxiePlus Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notifikasi SandboxiePlus</translation>
     </message>
 </context>
 <context>
@@ -7636,7 +7642,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="55"/>
         <source>Group: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Grup: %1</translation>
     </message>
 </context>
 <context>
@@ -7644,7 +7650,8 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Views/SbieView.cpp" line="1596"/>
         <source>Drive %1</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>idek</translatorcomment>
+        <translation type="unfinished">Drive: %1</translation>
     </message>
 </context>
 <context>
@@ -7652,7 +7659,7 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="SandMan.cpp" line="4238"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4239"/>
@@ -7680,51 +7687,52 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="32"/>
         <source>SandboxiePlus - Recovery</source>
-        <translation type="unfinished"></translation>
+        <translation>SandboxiePlus - Pemulihan</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="42"/>
         <source>Add Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambahkan Folder</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="61"/>
         <source>Delete Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus Konten</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="68"/>
         <source>Recover target:</source>
-        <translation type="unfinished"></translation>
+        <translation>Target pemulihan:</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="78"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Segarkan</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="110"/>
         <source>Recover</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulihkan</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="142"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="164"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutup</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="171"/>
         <source>Show All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tunjukan Semua File</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="184"/>
         <source>TextLabel</source>
+        <translatorcomment>??</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7733,37 +7741,37 @@ Please note that this values are currently user specific and saved globally for 
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="32"/>
         <source>SandboxiePlus select box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SandboxiePlus - Jalankan Tersandbox</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="47"/>
         <source>Run Sandboxed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jalankan Tersandbox</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="65"/>
         <source>Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sandbox</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="73"/>
         <source>Run Outside the Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jalankan Diluar Sandbox</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="80"/>
         <source>Run As UAC Administrator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jalankan Sebagai Administrator UAC</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="87"/>
         <source>Select the sandbox in which to start the program, installer or document.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pilih sandbox untuk memulai program, installer, atau dokumen.</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="97"/>
         <source>Run in a new Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jalankan di sandbox baru</translation>
     </message>
 </context>
 <context>
